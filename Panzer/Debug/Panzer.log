@@ -1,0 +1,27 @@
+﻿Построение начато 01.05.2016 10:14:34.
+     1>Проект "I:\Games\GitHub\panzer\panzer\Panzer\Panzer.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         I:\Program Files (x86)\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Sqrt.cpp main.cpp
+         main.cpp
+         Sqrt.cpp
+     1>i:\games\github\panzer\panzer\panzer\sqrt.cpp(10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>i:\games\github\panzer\panzer\panzer\sqrt.cpp(17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>i:\games\github\panzer\panzer\panzer\sqrt.cpp(22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+         Создание кода...
+       Link:
+         I:\Program Files (x86)\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\Games\GitHub\panzer\panzer\Debug\Panzer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\Games\GitHub\panzer\panzer\Debug\Panzer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\Games\GitHub\panzer\panzer\Debug\Panzer.lib" /MACHINE:X86 Debug\CommandManager.obj
+         Debug\FirstStrategy.obj
+         Debug\Game.obj
+         Debug\GameItem.obj
+         Debug\main.obj
+         Debug\MoveCommand.obj
+         Debug\RotateCommand.obj
+         Debug\Sqrt.obj
+         Debug\ViewBullet.obj
+         Debug\ViewPanzer.obj
+         Panzer.vcxproj -> I:\Games\GitHub\panzer\panzer\Debug\Panzer.exe
+     1>Построение проекта "I:\Games\GitHub\panzer\panzer\Panzer\Panzer.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.21
